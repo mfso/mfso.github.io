@@ -58,15 +58,15 @@ var prototypeBlank = {
 var prototype1 = {
     name: "WallBall",
     description: "Fast paced and exciting game for 4 players. You'll be surprised at how simple, yet exhausting a ball game can be.",
-    credits: "Marie-Louise Alexius Sørensen,Kasper Christian Hansen,Per Josefsen and Rasmus Nagel",
+    credits: "Marie-Louise Alexius Sørensen, Kasper Christian Hansen, Per Josefsen and Rasmus Nagel",
     gamelink: "prototypes/prototype1/WallBall.zip"
 }
 
 var prototype2 = {
-    name: "Prototype 2",
-    description: "TBD",
-    credits: "TBD",
-    gamelink: ""
+    name: "BoulderDash",
+    description: "A race against time as two players have to get away from a rolling boulder! Feel like Indiana Jones as he escapes!",
+    credits: "Christoffer Krakou, Jaime Monedero March and Stevene McCalla Damsgaard",
+    gamelink: "prototypes/prototype2/BoulderDash.zip"
 }
 
 var prototype3 = {
