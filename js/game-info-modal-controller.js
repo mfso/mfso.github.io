@@ -70,10 +70,10 @@ var prototype2 = {
 }
 
 var prototype3 = {
-    name: "Prototype 3",
-    description: "TBD",
-    credits: "TBD",
-    gamelink: ""
+    name: "SuperFrogger",
+    description: "You think you know Frogger? Think again! The cars and logs only move, when you do! That's right, step into the strategic world of SupperFrogger!",
+    credits: "Alexander Astrup, Kasper Brogård Kempf, Mathias Stie-Svendsen and Olivér Árnits",
+    gamelink: "prototypes/prototype3/SupperFrogger.zip)"
 }
 
 var prototype4 = {
