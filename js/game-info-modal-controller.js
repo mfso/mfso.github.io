@@ -73,14 +73,14 @@ var prototype3 = {
     name: "SuperFrogger",
     description: "You think you know Frogger? Think again! The cars and logs only move, when you do! That's right, step into the strategic world of SupperFrogger!",
     credits: "Alexander Astrup, Kasper Brogård Kempf, Mathias Stie-Svendsen and Olivér Árnits",
-    gamelink: "prototypes/prototype3/SupperFrogger.zip)"
+    gamelink: "prototypes/prototype3/SupperFrogger.zip"
 }
 
 var prototype4 = {
-    name: "Prototype 4",
-    description: "TBD",
-    credits: "TBD",
-    gamelink: ""
+    name: "Saving Animals",
+    description: "The farm is in danger! Save as many animals as you can in the 2 minutes you got!",
+    credits: "Astrid Knappmann, Lorena Ciobanu, Marie-Louise Alexius Sørensen and Mathies Wiencke",
+    gamelink: "prototypes/prototype4/SavingAnimals.zip"
 }
 
 var prototype5 = {
