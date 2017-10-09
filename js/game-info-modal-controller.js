@@ -84,10 +84,10 @@ var prototype4 = {
 }
 
 var prototype5 = {
-    name: "Prototype 5",
-    description: "TBD",
-    credits: "TBD",
-    gamelink: ""
+    name: "Loops",
+    description: "In this prototype, the idea is to separate a game into it's different loops, to better understand them.",
+    credits: "Chris Carvelli, Christoffer Krakou, Joe Osborne and Mikkel Juul Jensen",
+    gamelink: "prototypes/prototype5/Loops.zip"
 }
 
 var prototype6 = {
