@@ -91,10 +91,10 @@ var prototype5 = {
 }
 
 var prototype6 = {
-    name: "Prototype 6",
-    description: "TBD",
-    credits: "TBD",
-    gamelink: ""
+    name: "Gravity Matters",
+    description: "Now you are thinking with Gravity!",
+    credits: "Astrid Knappmann, Lorena Ciobanu, Marie-Louise Alexius Sørensen and Danyang Wang",
+    gamelink: "prototypes/prototype6/GravityMatters.zip"
 }
 
 var prototype7 = {
