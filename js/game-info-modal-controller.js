@@ -98,10 +98,10 @@ var prototype6 = {
 }
 
 var prototype7 = {
-    name: "Prototype 7",
-    description: "TBD",
-    credits: "TBD",
-    gamelink: ""
+    name: "Indy Chaplin",
+    description: "You are in an erupting volcano, and you need to get out!",
+    credits: "Astrid Knappmann, Ida Broni Christensen, Lorena Ciobanu and Sarah Grossi",
+    gamelink: "prototypes/prototype7/IndyChaplin.zip"
 }
 
 var prototype8 = {
