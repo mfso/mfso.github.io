@@ -30,12 +30,6 @@ function GetModal(id) {
         case 8:
             prototypeData = prototype8;
             break;
-        case 9:
-            prototypeData = prototype9;
-            break;
-        case 10:
-            prototypeData = prototype10;
-            break;
         default:
             prototypeData = prototypeBlank;
             break;
@@ -105,22 +99,8 @@ var prototype7 = {
 }
 
 var prototype8 = {
-    name: "Prototype 8",
-    description: "TBD",
-    credits: "TBD",
-    gamelink: ""
-}
-
-var prototype9 = {
-    name: "Prototype 9",
-    description: "TBD",
-    credits: "TBD",
-    gamelink: ""
-}
-
-var prototype10 = {
-    name: "Prototype 10",
-    description: "TBD",
-    credits: "TBD",
-    gamelink: ""
+    name: "Zinder",
+    description: "Zombies have started to roam the earth, and some scientists believe they are the next step in our evolution. So they bring a zombie each to a cabin to try and seduce them, as they were people once! The last to seducce their zombie, gets eaten!",
+    credits: "Astrid Knappmann, Ida Broni Christensen, Lorena Ciobanu and Marie-Louise Alexius Sørensen",
+    gamelink: "prototypes/prototype8/Zinder.zip"
 }
