@@ -67,7 +67,7 @@ var prototype3 = {
     name: "SuperFrogger",
     description: "You think you know Frogger? Think again! The cars and logs only move, when you do! That's right, step into the strategic world of SupperFrogger!",
     credits: "Alexander Astrup, Kasper Brogård Kempf, Mathias Stie-Svendsen and Olivér Árnits",
-    gamelink: "prototypes/prototype3/SupperFrogger.zip"
+    gamelink: "prototypes/prototype3/SuperFrogger.zip"
 }
 
 var prototype4 = {
